@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20My%20craft%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 <hr>
-## 🔨 Once I've used 🔨
+🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
