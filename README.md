@@ -1,7 +1,5 @@
-<p align='center'>
+
    [![trophy](https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=7)](https://github.com/huggywuggy1289/github-profile-trophy)
-   
-</p>
 
 <hr>
 🔨 Once I've used 🔨
