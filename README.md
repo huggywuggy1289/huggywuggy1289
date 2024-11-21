@@ -4,7 +4,7 @@
 
 <div style="text-align: center;">
    <a href="https://github.com/huggywuggy1289/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=3" alt="Trophy" width="600" />
+      <img src="https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=3" alt="Trophy" width="400" />
    </a>
 </div>
 
