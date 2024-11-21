@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20My%20craft%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome to my github%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
+
 <hr>
 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
