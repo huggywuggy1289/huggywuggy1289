@@ -2,7 +2,11 @@
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=3)](https://github.com/huggywuggy1289/github-profile-trophy)
+<div style="text-align: center;">
+   <a href="https://github.com/huggywuggy1289/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=3" alt="Trophy" width="600" />
+   </a>
+</div>
 
 <hr>
 🔨 Once I've used 🔨
