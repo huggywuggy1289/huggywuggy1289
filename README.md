@@ -1,4 +1,5 @@
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=son jaeyun&fontAlign=80&fontAlignY=40&color=gradient)
+<hr>
    [![trophy](https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=3)](https://github.com/huggywuggy1289/github-profile-trophy)
 
 <hr>
