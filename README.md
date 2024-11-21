@@ -42,9 +42,6 @@
 </div><br>
 </div>
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huggywuggy1289)](https://github.com/anuraghazra/github-readme-stats)
-
 ![JAEYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=huggywuggy1289&hide=contribs,prs&show_icons=true&theme=pink)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=huggywuggy1289&theme=dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
