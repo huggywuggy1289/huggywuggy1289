@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </div>
     <!-- DATABASE -->
-    <p><strong>Database</strong></p>
+    <p><strong>DATABASE</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
