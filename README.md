@@ -12,12 +12,11 @@
 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
-    <p><strong>Backend</strong></p>
+    <p><strong>LANGUAGE</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -25,6 +24,12 @@
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     </div>
+    <!-- GAMESTACK -->
+   <p><strong>GAME</strong></p>
+    <div>
+      <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+      <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+    <div>
     <!-- Server -->
     <p><strong>Development Tools</strong></p>
     <div>
@@ -32,7 +37,6 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </div>
     <!-- Frontend -->
