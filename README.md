@@ -11,14 +11,14 @@
 <hr>
 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
+    <!-- BACKEND -->
     <p><strong>LANGUAGE</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </div>
-    <!-- Database -->
+    <!-- DATABASE -->
     <p><strong>Database</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -32,7 +32,7 @@
       <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <div>
     <!-- Server -->
-    <p><strong>Development Tools</strong></p>
+    <p><strong>DEVELOPMENT TOOLS</strong></p>
     <div>
         <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
