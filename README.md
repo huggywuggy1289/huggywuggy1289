@@ -23,6 +23,7 @@
     <p><strong>Database</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     </div>
     <!-- Server -->
     <p><strong>Development Tools</strong></p>
