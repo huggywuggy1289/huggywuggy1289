@@ -1,12 +1,3 @@
-<hr>
-
-<div style="text-align: center;">
-   <a href="https://github.com/huggywuggy1289/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=huggywuggy1289&theme=flat&column=3" alt="Trophy" width="400" />
-   </a>
-</div>
-
-<hr>
 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- BACKEND -->
@@ -52,8 +43,3 @@
         <img src="ttps://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div><br>
 </div>
-<hr>
-
-![JAEYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=huggywuggy1289&hide=contribs,prs&show_icons=true&theme=pink)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=huggywuggy1289&theme=dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
