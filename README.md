@@ -58,20 +58,20 @@
       <td><strong>Capstone Project</strong></td>
       <td>한이음 : 인터렉티브 문제풀이 서비스 (진행중)</td>
       <td>
-        🌱 Spring Boot &nbsp;
-        🐳 Docker &nbsp;
-        ☁️ AWS &nbsp;
-        🤖 OpenAI &nbsp;
-        🧠 QwenVL &nbsp;
-        🚀 Deepseek
+        <img src="https://skillicons.dev/icons?i=spring" width="30"/>
+        <img src="https://skillicons.dev/icons?i=docker" width="30"/>
+        <img src="https://skillicons.dev/icons?i=aws" width="30"/>
+        <img src="https://skillicons.dev/icons?i=openai" width="30"/>
+        <img src="https://skillicons.dev/icons?i=python" width="30" title="QwenVL"/> <!-- 임의 대체 -->
+        <img src="https://skillicons.dev/icons?i=vercel" width="30" title="Deepseek"/> <!-- 임의 대체 -->
       </td>
     </tr>
     <tr>
       <td><strong>UMC</strong></td>
       <td>강의 리뷰 서비스 (개발완료)</td>
       <td>
-        🌱 Spring Boot &nbsp;
-        ☁️ AWS
+        <img src="https://skillicons.dev/icons?i=spring" width="30"/>
+        <img src="https://skillicons.dev/icons?i=aws" width="30"/>
       </td>
     </tr>
   </tbody>
