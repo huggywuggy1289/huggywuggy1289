@@ -74,6 +74,14 @@
         <img src="https://skillicons.dev/icons?i=aws" width="30"/>
       </td>
     </tr>
+      <tr>
+  <td><strong>GEMDUCK</strong></td>
+  <td>UNKNOWN<br>🚀 스팀 출시 예정</td>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" title="Unity"/>
+  </td>
+</tr>
+
   </tbody>
 </table>
 
