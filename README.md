@@ -42,3 +42,38 @@
         <img src="ttps://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div><br>
 </div>
+
+<P>
+<h2>📌 2025</h2>
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>NAME</th>
+      <th>DESCRIPT</th>
+      <th>SKILL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Capstone Project</strong></td>
+      <td>한이음 : 인터렉티브 문제풀이 서비스 (진행중)</td>
+      <td>
+        🌱 Spring Boot &nbsp;
+        🐳 Docker &nbsp;
+        ☁️ AWS &nbsp;
+        🤖 OpenAI &nbsp;
+        🧠 QwenVL &nbsp;
+        🚀 Deepseek
+      </td>
+    </tr>
+    <tr>
+      <td><strong>UMC</strong></td>
+      <td>강의 리뷰 서비스 (개발완료)</td>
+      <td>
+        🌱 Spring Boot &nbsp;
+        ☁️ AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
+
