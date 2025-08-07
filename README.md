@@ -14,18 +14,18 @@
         <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
     </div>
-    <!-- GAMESTACK -->
-    <p><strong>GAME</strong></p>
-      <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-      <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <!-- Server -->
-    <p><strong>DEVELOPMENT TOOLS</strong></p>
+    <p><strong>SERVER</strong></p>
     <div>
         <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </div>
     <br>
+    <!-- GAMESTACK -->
+    <p><strong>GAME</strong></p>
+      <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+      <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 
 <P>
