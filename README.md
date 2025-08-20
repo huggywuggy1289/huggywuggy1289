@@ -68,7 +68,7 @@
 </tr>
 <tr>
       <td><strong>UMC</strong></td>
-      <td>데모데이 프로젝트 N분의1 (진행중)</td>
+      <td>데모데이 프로젝트 N분의1 (개발완료)</td>
       <td>
         <img src="https://skillicons.dev/icons?i=spring" width="30"/>
         <img src="https://skillicons.dev/icons?i=aws" width="30"/>
