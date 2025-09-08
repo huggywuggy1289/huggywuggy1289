@@ -1,5 +1,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    Notion : https://square-jumper-8ec.notion.site/23a0cfb122368036be62e1a39574677e?pvs=74
+    <p>
+        Notion : https://square-jumper-8ec.notion.site/23a0cfb122368036be62e1a39574677e?pvs=74
+    </p>
     <!-- BACKEND -->
     <p><strong>LANGUAGE</strong></p>
     <div>
