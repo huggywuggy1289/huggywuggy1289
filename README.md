@@ -43,7 +43,7 @@
   <tbody>
     <tr>
       <td><strong>Capstone Project</strong></td>
-      <td>한이음 : 인터렉티브 문제풀이 서비스 (진행중)</td>
+      <td>한이음 : 인터렉티브 문제풀이 서비스 (개발완료,수상후보작 대기중)</td>
       <td>
         <img src="https://skillicons.dev/icons?i=spring" width="30"/>
         <img src="https://skillicons.dev/icons?i=docker" width="30"/>
