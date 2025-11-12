@@ -63,7 +63,7 @@
     </tr>
       <tr>
   <td><strong>GEMDUCK</strong></td>
-  <td>The Anomaly Record<br>🚀 스팀 출시 예정</td>
+  <td>The Anomaly Record<br>🚀 (개발중)</td>
   <td>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" title="Unity"/>
   </td>
