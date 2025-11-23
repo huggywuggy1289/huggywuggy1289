@@ -78,7 +78,7 @@
     </tr>
   <tr>
     <td><strong>CMC</strong></td>
-    <td>NEORDINARY Hackathon</td>
+    <td>NEORDINARY Hackathon (개발완료)</td>
     <td>
       <img src="https://skillicons.dev/icons?i=spring" width="30"/>
       <img src="https://skillicons.dev/icons?i=aws" width="30"/>
