@@ -77,8 +77,8 @@
       </td>
     </tr>
   <tr>
-    <td><strong>NEORDINARY Hackathon</strong></td>
-    <td>CMC ne(o)rdinary (2025)</td>
+    <td><strong>CMC</strong></td>
+    <td>NEORDINARY Hackathon</td>
     <td>
       <img src="https://skillicons.dev/icons?i=spring" width="30"/>
       <img src="https://skillicons.dev/icons?i=aws" width="30"/>
