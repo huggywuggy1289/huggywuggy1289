@@ -87,4 +87,30 @@
 </tbody>
   </tbody>
 </table>
+<P>
+<h2>📌 2026</h2>
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>NAME</th>
+      <th>DESCRIPT</th>
+      <th>SKILL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CMC</strong></td>
+      <td>
+        모잇 (MOIT)<br>
+        가계부 · 지출 기록 및 주차별 소비 분석 앱<br>
+        🚀 앱 런칭 예정
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=spring" width="30"/>
+        <img src="https://skillicons.dev/icons?i=aws" width="30"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
