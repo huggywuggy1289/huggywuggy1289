@@ -101,7 +101,7 @@
     <tr>
       <td><strong>CMC</strong></td>
       <td>
-        모잇 (MOIT)<br>
+        모닛 (MONIT)<br>
         가계부 · 지출 기록 및 주차별 소비 분석 앱<br>
         🚀 앱 런칭 예정
       </td>
